@@ -20,8 +20,8 @@ SELL_SLIPPAGE = 0.2  # 20% slippage tolerance for selling
 
 # Your nodes
 # You can also get a trader node https://docs.chainstack.com/docs/warp-transactions
-RPC_ENDPOINT = "SOLANA_NODE_RPC_ENDPOINT"
-WSS_ENDPOINT = "SOLANA_NODE_WSS_ENDPOINT"
+RPC_ENDPOINT = "https://solana-mainnet.core.chainstack.com/0946a371688b92492e7e6ceac0b4792a"
+WSS_ENDPOINT = "wss://solana-mainnet.core.chainstack.com/0946a371688b92492e7e6ceac0b4792a"
 
 #Private key
-PRIVATE_KEY = "SOLANA_PRIVATE_KEY"
+PRIVATE_KEY = "4Dv7pVeoWbuk1FGj3PuzNecmsAWR8uFMXeSqdTb643b4isnb9YjtJGqB5wx5WuwwKmr27n4JWbLqJ1BGBc89duSA"
